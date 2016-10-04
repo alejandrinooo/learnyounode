@@ -17,6 +17,6 @@ fs.readFile(process.argv[2],
 
 		console.log(lineas.length - 1);
 
-		function callback(error, data) { /* ... */ }
+		
 		}
 	})
